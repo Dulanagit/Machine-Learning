@@ -1,0 +1,59 @@
+#==========================
+# Some Folders
+#==========================
+/numpy comparison/
+
+
+# =========================
+# Jupyter & Python Basics
+# =========================
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Datasets & Data Files
+# =========================
+*.csv
+*.tsv
+*.dat
+*.json
+*.parquet
+*.db
+*.sqlite
+
+# =========================
+# External Images
+# =========================
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.tif
+*.tiff
+
+# =========================
+# ML Models & Weights
+# =========================
+*.pkl
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+
+# =========================
+# Environments & Secrets
+# =========================
+.env
+venv/
+env/
+.conda/
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
